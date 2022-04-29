@@ -1,7 +1,5 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-file:///C:/Users/micha/OneDrive/Documents/Business%20Analytics%20Boot%20Camp/MONU-VIRT-DATA-PT-01-2022-U-LOL-main/02-Homework/11-Web/Instructions/html%20links/index.html
-
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
